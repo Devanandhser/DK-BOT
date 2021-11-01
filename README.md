@@ -30,11 +30,11 @@
 
 Project created by <a href="https://github.com/Devanandhser/Devanandh_ser">Devanandh</a> to make it public
 
-    <br>
+   
 
-       | © |
+    
 
-        Reserved |
+
 
 # DK-BOT
 MADED BY DEVANANDH_SER
